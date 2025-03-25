@@ -1,0 +1,81 @@
+{
+  "PlatformSupportTeam": {
+    "categories": [
+      {
+        "category": "Technical Issues",
+        "questions": [
+          {
+            "questionId": 1,
+            "questionText": "Are you experiencing any connectivity issues?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 2,
+            "questionText": "What operating system are you using?",
+            "questionType": "Text"
+          },
+          {
+            "questionId": 3,
+            "questionText": "Have you tried restarting your device?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 4,
+            "questionText": "Please describe any error messages you received.",
+            "questionType": "Text"
+          }
+        ]
+      },
+      {
+        "category": "Account Issues",
+        "questions": [
+          {
+            "questionId": 5,
+            "questionText": "Are you having trouble logging in?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 6,
+            "questionText": "Have you reset your password recently?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 7,
+            "questionText": "Is your account locked or suspended?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 8,
+            "questionText": "Please provide any other account-related issues.",
+            "questionType": "Text"
+          }
+        ]
+      },
+      {
+        "category": "Billing & Payment",
+        "questions": [
+          {
+            "questionId": 9,
+            "questionText": "Have you been charged correctly for your subscription?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 10,
+            "questionText": "Is your payment method up to date?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 11,
+            "questionText": "Are you experiencing issues with invoices or receipts?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 12,
+            "questionText": "Please provide any additional billing-related concerns.",
+            "questionType": "Text"
+          }
+        ]
+      }
+    ]
+  }
+}
