@@ -2,76 +2,228 @@
   "PlatformSupportTeam": {
     "categories": [
       {
-        "category": "Technical Issues",
+        "category": "provide agentic capabilities for incident resolution",
         "questions": [
           {
             "questionId": 1,
-            "questionText": "Are you experiencing any connectivity issues?",
+            "questionText": "Do agentic capabilities play a role in incident resolution?",
             "questionType": "Yes/No"
           },
           {
             "questionId": 2,
-            "questionText": "What operating system are you using?",
+            "questionText": "Can agentic capabilities improve incident management efficiency?",
             "questionType": "Text"
           },
           {
             "questionId": 3,
-            "questionText": "Have you tried restarting your device?",
+            "questionText": "Are agentic systems beneficial for all industries in incident resolution?",
             "questionType": "Yes/No"
           },
           {
             "questionId": 4,
-            "questionText": "Please describe any error messages you received.",
+            "questionText": "Do key performance indicators (KPIs) help measure agentic effectiveness",
             "questionType": "Text"
-          }
-        ]
-      },
-      {
-        "category": "Account Issues",
-        "questions": [
+          },
           {
             "questionId": 5,
-            "questionText": "Are you having trouble logging in?",
+            "questionText": "Can agentic capabilities replace traditional incident response methods?",
             "questionType": "Yes/No"
           },
           {
             "questionId": 6,
-            "questionText": "Have you reset your password recently?",
+            "questionText": "Are agentic capabilities essential for modern incident resolution strategies?",
             "questionType": "Yes/No"
           },
           {
             "questionId": 7,
-            "questionText": "Is your account locked or suspended?",
+            "questionText": "Do agentic systems reduce manual intervention in incident management?",
             "questionType": "Yes/No"
           },
           {
             "questionId": 8,
-            "questionText": "Please provide any other account-related issues.",
-            "questionType": "Text"
-          }
-        ]
-      },
-      {
-        "category": "Billing & Payment",
-        "questions": [
+            "questionText": "Can AI-driven agents autonomously resolve incidents?",
+            "questionType": "Yes/No"
+          },
           {
             "questionId": 9,
-            "questionText": "Have you been charged correctly for your subscription?",
+            "questionText": "Does machine learning enhance automated incident response?",
             "questionType": "Yes/No"
           },
           {
             "questionId": 10,
-            "questionText": "Is your payment method up to date?",
+            "questionText": "Are autonomous agents capable of detecting security threats?",
             "questionType": "Yes/No"
-          },
+          }
+        ]
+      },
+      {
+        "category": "Contextual recommendations",
+        "questions": [
           {
             "questionId": 11,
-            "questionText": "Are you experiencing issues with invoices or receipts?",
+            "questionText": "How do contextual recommendations enhance decision-making?",
             "questionType": "Yes/No"
           },
           {
             "questionId": 12,
-            "questionText": "Please provide any additional billing-related concerns.",
+            "questionText": "Can contextual recommendations be personalized for different users?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 13,
+            "questionText": "Are contextual recommendations applicable in non-digital environments?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 14,
+            "questionText": "What are contextual recommendations?",
+            "questionType": "Text"
+          },
+          {
+            "questionId": 15,
+            "questionText": "How can businesses integrate contextual recommendations into their platforms?",
+            "questionType": "Text"
+          },
+          {
+            "questionId": 16,
+            "questionText": "Are contextual recommendations scalable for enterprise applications?",
+            "questionType": "Text"
+          },
+          {
+            "questionId": 17,
+            "questionText": "Do contextual recommendations work well with rule-based systems?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 18,
+            "questionText": "Are large datasets required for effective contextual recommendations?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 19,
+            "questionText": "Can contextual recommendations be integrated with cloud-based applications?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 20,
+            "questionText": "Are contextual recommendations effective in omnichannel marketing strategies?",
+            "questionType": "Yes/No"
+          }
+
+        ]
+      },
+      {
+        "category": "Ability to leverage enterprise information for troubleshooting",
+        "questions": [
+          {
+            "questionId": 21,
+            "questionText": "Do enterprises effectively leverage their data for issue resolution?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 22,
+            "questionText": "Can AI analyze enterprise data to assist in troubleshooting?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 23,
+            "questionText": "Do machine learning models enhance troubleshooting accuracy?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 24,
+            "questionText": "Can enterprise information improve troubleshooting processes?",
+            "questionType": "Text"
+          },
+          {
+            "questionId": 25,
+            "questionText": "Do data silos hinder effective troubleshooting?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 26,
+            "questionText": "Does leveraging enterprise information for troubleshooting comply with data privacy regulations?",
+            "questionType": "Text"
+          },
+          {
+            "questionId": 27,
+            "questionText": "Are there security risks in using enterprise data for troubleshooting?",
+            "questionType": "Text"
+          },
+          {
+            "questionId": 28,
+            "questionText": "Can role-based access controls protect sensitive enterprise information?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 29,
+            "questionText": "Can leveraging enterprise information reduce downtime during troubleshooting?",
+            "questionType": "Text"
+          },
+          {
+            "questionId": 30,
+            "questionText": "Do enterprises measure the impact of data-driven troubleshooting?",
+            "questionType": "Yes/No"
+          }
+
+        ]
+      },
+      {
+        "category": "context based data extraction",
+        "questions": [
+          {
+            "questionId": 31,
+            "questionText": "Can context-based data extraction improve decision-making?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 32,
+            "questionText": "Do organizations benefit from automating data extraction processes?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 33,
+            "questionText": "Can AI improve the accuracy of context-based data extraction?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 34,
+            "questionText": "Are natural language processing techniques useful for extracting contextual data?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 35,
+            "questionText": "Do cloud-based platforms support scalable context-based data extraction?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 36,
+            "questionText": "Does context-based data extraction comply with global data privacy regulations?",
+            "questionType": "Text"
+          },
+          {
+            "questionId": 37,
+            "questionText": "Are encryption methods necessary for secure data extraction?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 38,
+            "questionText": "Can context-aware data extraction reduce the risk of data breaches?",
+            "questionType": "Text"
+          },
+          {
+            "questionId": 39,
+            "questionText": "Can context-based data extraction enhance business intelligence?",
+            "questionType": "Text"
+          },
+          {
+            "questionId": 40,
+            "questionText": "Do organizations measure the efficiency of their data extraction models?",
+            "questionType": "Yes/No"
+          },
+          {
+            "questionId": 41,
+            "questionText": "re real-time dashboards useful for monitoring extracted contextual data?",
             "questionType": "Text"
           }
         ]
